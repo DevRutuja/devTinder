@@ -13,3 +13,15 @@ run code using nodemon
 install npm i -g nodemon
 run code using nodemon src/app.js
 update package.json file for commands of node and nodemon
+
+initialize git
+gitignore
+create new repo on github
+play with route and route extensions /hello , ./hello/e , ./xyx
+order of route matter alot
+install postman
+test post, get and delete api
+explore routing and ?, + , (), * in the routes
+use of in routes /a/ , /.*fly$/
+reading the query params in the routes
+reading the dynamic routes
